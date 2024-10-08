@@ -10,7 +10,7 @@ Aquí tienes la versión actualizada con más íconos de Docker:
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org/)
 
 ### ¡Hola! Soy Emanuel Mamani Aliaga, un estudiante de Ingeniería de Sistemas. 🚀
-- Me encanta Docker y soy bastante renegón. 😅
+- Me encanta Docker 
 - Soy un apasionado de la vida y la tecnología.
 - Me interesan los servidores y la infraestructura tecnológica.
 
