@@ -14,4 +14,3 @@ Aquí tienes la versión actualizada con más íconos de Docker:
 - Soy un apasionado de la vida y la tecnología.
 - Me interesan los servidores y la infraestructura tecnológica.
 
-¿Qué tal te parece esta versión con más íconos de Docker?
