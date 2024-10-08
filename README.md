@@ -8,8 +8,6 @@ Aquí tienes la versión actualizada con más íconos de Docker:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### ¡Hola! Soy Emanuel Mamani Aliaga, un estudiante de Ingeniería de Sistemas. 🚀
 - Me encanta Docker y soy bastante renegón. 😅
